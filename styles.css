@@ -19,6 +19,8 @@ header {
     flex-direction: column;
     align-items: center;
     background: linear-gradient(to right, #53e8ff 30%, #FFFFFF 100%);
+    margin: auto;
+    padding: auto;
 }
 
 .header-content h1 {
